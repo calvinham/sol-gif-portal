@@ -32,7 +32,6 @@
     "sass": "^1.43.2",
     "save-dev": "^0.0.1-security",
     "typescript": "^4.4.4",
-    "vercel": "^23.1.2",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
